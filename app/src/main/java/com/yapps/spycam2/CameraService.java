@@ -23,7 +23,7 @@ import java.util.Map;
 
 public class CameraService extends Service {
     static int x;
-String tag="mydebugs";
+    String tag="mydebugs";
     String encodedImage;
     public CameraService() {
     }
